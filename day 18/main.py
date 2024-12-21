@@ -51,17 +51,5 @@ for _ in range(72):
     tim.circle(100)
     tim.setheading(tim.heading() + 5)
 
-
-
-
-
-
-
-
-
-
-
-
-
 screen = Screen()
 screen.exitonclick()
